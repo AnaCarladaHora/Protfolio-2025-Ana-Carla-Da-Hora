@@ -42,7 +42,7 @@ Este é o meu portfólio online, desenvolvido para apresentar minhas habilidades
 *   **Ajuste no Banner:**  O texto do banner está centralizado, e o banner está mais fino, sendo possível ver a imagem por completo.
 *   **Layout:** A forma de exibir a imagem e o texto no banner foi ajustado.
 *  **Transparência:** O banner esta com um efeito de transparência, e com transições suaves ao passar o mouse.
-*  **Armazenamento de Dados:** Foi utilizado o localStorage para salvamento de dados do formulário.
+*  **Armazenamento de Dados:** Foi utilizado o formsubmit para dos dados do formulário.
 *  **Layout:** Foi realizado um estudo do layout para garantir um site mais profissional e bem alinhado.
 *   **Animação:** Foi adicionado a propriedade de animação para o título da página inicial.
 *  **Organização do Código:** Foi utilizado seletores mais específicos para estilizar corretamente os elementos, foi realizada a organização de código e a remoção de repetições.
