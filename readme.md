@@ -57,4 +57,4 @@ Este é o meu portfólio online, desenvolvido para apresentar minhas habilidades
 Se você tiver alguma sugestão ou encontrar algum problema, por favor, abra uma "issue" ou envie um "pull request".
 
 ## Licença
- Copyright (C) <2025>  <Ana Carla Da Hora>
+ Copyright (C) <2025 Ana Carla Da Hora> 
