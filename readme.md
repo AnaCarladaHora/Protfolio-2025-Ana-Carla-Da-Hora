@@ -58,5 +58,5 @@ Se você tiver alguma sugestão ou encontrar algum problema, por favor, abra uma
 
 ## Licença
  Copyright (C) <2025 Ana Carla Da Hora> 
-![Screenshot do meu site 2025](assets/screenshot.png)
-![Screenshot do meu site 2021](assets/screenshot.png)
+![Screenshot do meu site 2025](assets/2025)
+![Screenshot do meu site 2021](assets/2021)
